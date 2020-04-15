@@ -5,7 +5,7 @@ The first two steps are for the first time only:
 
 1) Download R from this trusted link: https://www.r-project.org/
 
-2) Download the R file prettyplot.R from this link: https://github.com/katbeescience
+2) Download the R file prettyplot.R from this link: https://github.com/katbeescience/prettyplot
 
 3) Save this file on your Desktop.
 
